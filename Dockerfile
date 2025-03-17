@@ -1,4 +1,4 @@
-FROM nginx:1.21.6-alpine
+FROM nginx:1.27.4-alpine
 
 RUN mkdir -p /data/apps/baota-default-page
 
